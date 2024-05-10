@@ -39,12 +39,14 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![image](https://github.com/TimmapuramYogeeswar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/154494746/40ebb111-eeda-420d-9d6e-d20aad92e210)
+![image](https://github.com/TimmapuramYogeeswar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/154494746/4774d587-365d-40e0-9b9d-9f28bffc7e43)
+![image](https://github.com/TimmapuramYogeeswar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/154494746/177f6bdf-32e4-4fee-bbad-0231d5c4f025)
+
 
 ## Output:
 ![image](https://github.com/TimmapuramYogeeswar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/154494746/ccda06d5-ad80-4520-9fee-7f749c92d75c)
+
 
 ### Name:TIMMAPURAM YOGEESWAR
 ### Register Number:212223230233
